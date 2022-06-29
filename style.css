@@ -35,7 +35,7 @@ html, body {
    color: #fff;
 }
 
-#navbar ul li a:hover {
+#navbar ul li :hover a{
    color: #fff;
 }
 
